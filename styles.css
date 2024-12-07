@@ -1,0 +1,15 @@
+/* External CSS */
+body {
+    background-color: #ecf0f1;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    font-size: 1em;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
